@@ -9,14 +9,14 @@
           Hi! My name is Dima and I'm Novice Front-end Engineer.
         </p>
         <p class="Info-text">
-          I discovered the world of IT in 2019, but I've loved computers and everything related to them all my life.
+          I discovered the world of IT in 2022, but I've loved computers and everything related to them all my life.
         </p>
         <p class="Info-text">
           I love creating something new, beautiful and enjoying developing in a circle of like-minded people.
         </p>
         <p class="Info-text">
           I graduated from Kuban State University with a degree in Finance and Credit and received a specialist diploma.
-          In 2019, I completed Front-end development courses and received a professional retraining diploma.
+          In 2022, I completed Front-end development courses and received a professional retraining diploma.
         </p>
       </div>
       <img class="Image" src="@/assets/images/Photo.jpg" alt="My Photo">
